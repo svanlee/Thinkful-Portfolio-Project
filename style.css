@@ -39,6 +39,7 @@ html, body {
   margin: 20px auto 0 auto;
   padding: 20px;
   background-color: darkgoldenrod;
+  text-align: center;
 }
 
 .fit-pic {
@@ -46,6 +47,7 @@ html, body {
 }
 
 footer {
+  text-align: center;
   background-color: darkblue;
   width: 940px;
   margin: 20px auto 0 auto;
