@@ -4,6 +4,8 @@ html, body {
   background-color: #5f5345;
 }
 
+/* Style for Header */
+
 .headerContainer {
   width: 940px;
   height: 320px;
@@ -11,6 +13,8 @@ html, body {
   padding: 20px;
   background-color: darkgray;
 }
+
+/* Style for Intro */
 
 .introContainer {
   width: 940px;
@@ -32,6 +36,8 @@ html, body {
   margin-top: 20px;
 }
 
+/* Style for About */
+
 .aboutContainer {
   width: 940px;
   height: 520px;
@@ -40,15 +46,7 @@ html, body {
   background-color: darkgoldenrod;
 }
 
-.fit-pic {
-    width: 60px;
-}
-
-.fit-pic2 {
-  width: 60px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
-}
+/* Style for Footer */
 
 footer {
   background-color: darkblue;
@@ -63,11 +61,15 @@ img {
   border-radius: 50%;
 }
 
+/* Style for Heading 1 */
+
 h1 {
   font-family: 'times new roman ';
   font-size: 62px;
   color: #4e0202;
 }
+
+/* Style for Heading 2 */
 
 h2 {
   text-align: center;
@@ -76,6 +78,8 @@ h2 {
   color: #050201; 
 }
 
+/* Style for Heading 3 */
+
 h3 {
   text-align: center;
   font-family: 'brush script mt';
@@ -83,12 +87,16 @@ h3 {
   color: #050201;
 }
 
+/* Style for Heading 4 */
+
 h4 {
   text-align: center;
   font-family: helvetica;
   font-size: 24px;
   color: black;
 }
+
+/* Style for paragraphs */
 
 p {
   text-align: center;
